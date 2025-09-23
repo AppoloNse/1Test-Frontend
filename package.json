@@ -16,7 +16,7 @@
     "framer-motion": "^10.16.4",
     "recharts": "^2.10.3",
     "react-hot-toast": "^2.4.1",
-    "mathjax3": "^3.2.2",
+    "mathjax3": "^3.2.0",
     "react-icons": "^4.11.0"
   },
   "devDependencies": {
